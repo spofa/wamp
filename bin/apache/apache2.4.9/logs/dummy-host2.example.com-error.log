@@ -242,3 +242,15 @@
 [Sat Oct 29 09:33:36.961490 2016] [authz_core:error] [pid 4580:tid 1128] [client 127.0.0.1:21095] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
 [Sat Oct 29 09:33:36.962003 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21094] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
 [Sat Oct 29 09:33:36.962500 2016] [authz_core:error] [pid 4580:tid 1124] [client 127.0.0.1:21096] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:29.358638 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21679] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:29.359143 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21679] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:29.360132 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21679] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:29.360132 2016] [authz_core:error] [pid 4580:tid 1128] [client 127.0.0.1:21680] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:29.360631 2016] [authz_core:error] [pid 4580:tid 1124] [client 127.0.0.1:21681] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:29.361132 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21679] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:35.625007 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21679] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:35.625495 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21679] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:35.625996 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21679] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:35.626494 2016] [authz_core:error] [pid 4580:tid 1104] [client 127.0.0.1:21686] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:35.627499 2016] [authz_core:error] [pid 4580:tid 1136] [client 127.0.0.1:21679] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
+[Sat Oct 29 09:41:35.627499 2016] [authz_core:error] [pid 4580:tid 1104] [client 127.0.0.1:21686] AH01630: client denied by server configuration: C:/Apache24, referer: http://127.0.0.1/
