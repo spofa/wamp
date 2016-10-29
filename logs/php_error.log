@@ -1,0 +1,490 @@
+[27-Oct-2016 06:01:09 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 06:01:09 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 06:01:10 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 06:01:10 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:55:20 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:55:20 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:55:21 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:55:21 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:55:50 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:55:50 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:55:50 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:55:50 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:56:04 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:56:04 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:56:05 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:56:05 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:57:49 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:57:49 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:57:50 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:57:50 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:59:22 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:59:22 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:59:22 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:59:22 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:59:59 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 07:59:59 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:00:00 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:00:00 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:01:18 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:01:18 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:01:19 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:01:19 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:03:31 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:03:31 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:03:32 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:03:32 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:04:25 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:04:25 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:04:25 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:04:25 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:06:35 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:06:35 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:06:36 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:06:36 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:03 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:03 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:04 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:04 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:30 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:30 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:30 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:30 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:51 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:51 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:52 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 08:08:52 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 17:57:57 PRC] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\Application\Home\Controller\LoginController.class.php on line 75
+[27-Oct-2016 17:57:57 PRC] PHP Stack trace:
+[27-Oct-2016 17:57:57 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\index.php:0
+[27-Oct-2016 17:57:57 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\index.php:29
+[27-Oct-2016 17:57:57 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 17:57:57 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 17:57:57 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 17:57:57 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 17:57:57 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 17:57:57 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 17:57:57 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 17:58:04 PRC] PHP Parse error:  syntax error, unexpected 'redirect' (T_STRING) in E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\Application\Home\Controller\LoginController.class.php on line 75
+[27-Oct-2016 17:58:04 PRC] PHP Stack trace:
+[27-Oct-2016 17:58:04 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\index.php:0
+[27-Oct-2016 17:58:04 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\index.php:29
+[27-Oct-2016 17:58:04 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 17:58:04 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 17:58:04 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 17:58:04 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 17:58:04 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 17:58:04 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 17:58:04 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\ThinkAdmin-master\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:53:21 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:53:21 PRC] PHP Stack trace:
+[27-Oct-2016 18:53:21 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:53:21 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:53:21 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:53:21 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:53:21 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:53:21 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:53:21 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:53:21 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:53:21 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:54:08 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:54:08 PRC] PHP Stack trace:
+[27-Oct-2016 18:54:08 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:54:08 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:54:08 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:54:08 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:54:08 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:54:08 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:54:08 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:54:08 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:54:08 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:54:10 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:54:10 PRC] PHP Stack trace:
+[27-Oct-2016 18:54:10 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:54:10 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:54:10 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:54:10 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:54:10 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:54:10 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:54:10 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:54:10 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:54:10 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:54:13 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:54:13 PRC] PHP Stack trace:
+[27-Oct-2016 18:54:13 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:54:13 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:54:13 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:54:13 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:54:13 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:54:13 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:54:13 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:54:13 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:54:13 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:55:39 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:55:39 PRC] PHP Stack trace:
+[27-Oct-2016 18:55:39 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:55:39 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:55:39 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:55:39 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:55:39 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:55:39 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:55:39 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:55:39 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:55:39 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:55:41 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:55:41 PRC] PHP Stack trace:
+[27-Oct-2016 18:55:41 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:55:41 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:55:41 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:55:41 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:55:41 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:55:41 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:55:41 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:55:41 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:55:41 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:55:45 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:55:45 PRC] PHP Stack trace:
+[27-Oct-2016 18:55:45 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:55:45 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:55:45 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:55:45 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:55:45 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:55:45 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:55:45 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:55:45 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:55:45 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:55:45 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:55:45 PRC] PHP Stack trace:
+[27-Oct-2016 18:55:45 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:55:45 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:55:45 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:55:45 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:55:45 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:55:45 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:55:45 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:55:45 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:55:45 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:04 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:04 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:04 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:04 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:04 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:04 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:04 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:04 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:04 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:04 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:04 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:05 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:05 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:05 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:05 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:05 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:05 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:05 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:05 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:05 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:05 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:05 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:05 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:05 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:05 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:05 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:05 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:05 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:05 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:05 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:05 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:05 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:05 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:09 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:09 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:09 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:09 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:09 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:09 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:09 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:09 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:09 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:09 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:09 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:10 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:10 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:10 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:10 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:10 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:10 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:10 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:10 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:10 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:10 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:10 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:10 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:10 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:10 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:10 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:10 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:10 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:10 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:10 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:10 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:10 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:10 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:21 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:21 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:21 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:21 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:21 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:21 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:21 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:21 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:21 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:21 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:21 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:31 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:31 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:31 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:31 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:31 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:31 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:31 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:31 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:31 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:31 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:31 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:56:36 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:56:36 PRC] PHP Stack trace:
+[27-Oct-2016 18:56:36 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:56:36 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:56:36 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:56:36 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:56:36 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:56:36 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:56:36 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:36 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:56:36 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:57:20 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:57:20 PRC] PHP Stack trace:
+[27-Oct-2016 18:57:20 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:57:20 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:57:20 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:57:20 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:57:20 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:57:20 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:57:20 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:20 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:20 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:57:29 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:57:29 PRC] PHP Stack trace:
+[27-Oct-2016 18:57:29 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:57:29 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:57:29 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:57:29 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:57:29 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:57:29 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:57:29 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:29 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:29 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:57:29 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:57:29 PRC] PHP Stack trace:
+[27-Oct-2016 18:57:29 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:57:29 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:57:29 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:57:29 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:57:29 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:57:29 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:57:29 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:29 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:29 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:57:38 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:57:38 PRC] PHP Stack trace:
+[27-Oct-2016 18:57:38 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:57:38 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:57:38 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:57:38 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:57:38 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:57:38 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:57:38 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:38 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:38 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:57:47 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:57:47 PRC] PHP Stack trace:
+[27-Oct-2016 18:57:47 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:57:47 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:57:47 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:57:47 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:57:47 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:57:47 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:57:47 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:47 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:57:47 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:58:09 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:58:09 PRC] PHP Stack trace:
+[27-Oct-2016 18:58:09 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:58:09 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:58:09 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:58:09 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:58:09 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:58:09 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:58:09 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:58:09 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:58:09 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 18:58:20 PRC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php on line 27
+[27-Oct-2016 18:58:20 PRC] PHP Stack trace:
+[27-Oct-2016 18:58:20 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 18:58:20 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 18:58:20 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 18:58:20 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 18:58:20 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 18:58:20 PRC] PHP   6. controller() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:89
+[27-Oct-2016 18:58:20 PRC] PHP   7. class_exists() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:58:20 PRC] PHP   8. spl_autoload_call() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:680
+[27-Oct-2016 18:58:20 PRC] PHP   9. Think\Think::autoload() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Common\functions.php:0
+[27-Oct-2016 19:15:58 PRC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Conf\config.php on line 5
+[27-Oct-2016 19:15:58 PRC] PHP Stack trace:
+[27-Oct-2016 19:15:58 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 19:15:58 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 19:15:58 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 19:15:58 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 19:15:58 PRC] PHP   5. Think\App::init() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:193
+[27-Oct-2016 19:15:58 PRC] PHP   6. Think\Dispatcher::dispatch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:38
+[27-Oct-2016 19:15:58 PRC] PHP   7. load_config() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Dispatcher.class.php:156
+[27-Oct-2016 19:16:01 PRC] PHP Parse error:  syntax error, unexpected '""' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Conf\config.php on line 5
+[27-Oct-2016 19:16:01 PRC] PHP Stack trace:
+[27-Oct-2016 19:16:01 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 19:16:01 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 19:16:01 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 19:16:01 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 19:16:01 PRC] PHP   5. Think\App::init() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:193
+[27-Oct-2016 19:16:01 PRC] PHP   6. Think\Dispatcher::dispatch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:38
+[27-Oct-2016 19:16:01 PRC] PHP   7. load_config() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Dispatcher.class.php:156
+[27-Oct-2016 19:17:24 PRC] PHP Parse error:  syntax error, unexpected 'APP_PATH' (T_STRING), expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Conf\config.php on line 5
+[27-Oct-2016 19:17:24 PRC] PHP Stack trace:
+[27-Oct-2016 19:17:24 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 19:17:24 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 19:17:24 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 19:17:24 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 19:17:24 PRC] PHP   5. Think\App::init() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:193
+[27-Oct-2016 19:17:24 PRC] PHP   6. Think\Dispatcher::dispatch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:38
+[27-Oct-2016 19:17:24 PRC] PHP   7. load_config() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Dispatcher.class.php:156
+[27-Oct-2016 19:19:34 PRC] PHP Parse error:  syntax error, unexpected '__ROOT__' (T_STRING), expecting ')' in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Conf\config.php on line 5
+[27-Oct-2016 19:19:34 PRC] PHP Stack trace:
+[27-Oct-2016 19:19:34 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 19:19:34 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 19:19:34 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 19:19:34 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 19:19:34 PRC] PHP   5. Think\App::init() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:193
+[27-Oct-2016 19:19:34 PRC] PHP   6. Think\Dispatcher::dispatch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:38
+[27-Oct-2016 19:19:34 PRC] PHP   7. load_config() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Dispatcher.class.php:156
+[27-Oct-2016 11:26:25 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 11:26:25 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 11:26:26 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 11:26:26 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 20:42:26 PRC] PHP Parse error:  syntax error, unexpected '')'' (T_CONSTANT_ENCAPSED_STRING) in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php on line 89
+[27-Oct-2016 20:42:26 PRC] PHP Stack trace:
+[27-Oct-2016 20:42:26 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 20:42:26 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 20:42:26 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 20:42:26 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 20:42:26 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 20:42:26 PRC] PHP   6. ReflectionMethod->invoke() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:26 PRC] PHP   7. Home\Controller\IndexController->index() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:26 PRC] PHP   8. Think\Controller->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php:62
+[27-Oct-2016 20:42:26 PRC] PHP   9. Think\View->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Controller.class.php:56
+[27-Oct-2016 20:42:26 PRC] PHP  10. Think\View->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:72
+[27-Oct-2016 20:42:26 PRC] PHP  11. Think\Hook::listen() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:126
+[27-Oct-2016 20:42:26 PRC] PHP  12. Think\Hook::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:89
+[27-Oct-2016 20:42:26 PRC] PHP  13. Behavior\ParseTemplateBehavior->run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:119
+[27-Oct-2016 20:42:26 PRC] PHP  14. Think\Template->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php:32
+[27-Oct-2016 20:42:26 PRC] PHP  15. Think\Storage::load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:26 PRC] PHP  16. Think\Storage::__callstatic() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:26 PRC] PHP  17. call_user_func_array:{E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:26 PRC] PHP  18. Think\Storage\Driver\File->load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:28 PRC] PHP Parse error:  syntax error, unexpected '')'' (T_CONSTANT_ENCAPSED_STRING) in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php on line 89
+[27-Oct-2016 20:42:28 PRC] PHP Stack trace:
+[27-Oct-2016 20:42:28 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 20:42:28 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 20:42:28 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 20:42:28 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 20:42:28 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 20:42:28 PRC] PHP   6. ReflectionMethod->invoke() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:28 PRC] PHP   7. Home\Controller\IndexController->index() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:28 PRC] PHP   8. Think\Controller->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php:62
+[27-Oct-2016 20:42:28 PRC] PHP   9. Think\View->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Controller.class.php:56
+[27-Oct-2016 20:42:28 PRC] PHP  10. Think\View->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:72
+[27-Oct-2016 20:42:28 PRC] PHP  11. Think\Hook::listen() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:126
+[27-Oct-2016 20:42:28 PRC] PHP  12. Think\Hook::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:89
+[27-Oct-2016 20:42:28 PRC] PHP  13. Behavior\ParseTemplateBehavior->run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:119
+[27-Oct-2016 20:42:28 PRC] PHP  14. Think\Template->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php:32
+[27-Oct-2016 20:42:28 PRC] PHP  15. Think\Storage::load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:28 PRC] PHP  16. Think\Storage::__callstatic() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:28 PRC] PHP  17. call_user_func_array:{E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:28 PRC] PHP  18. Think\Storage\Driver\File->load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:54 PRC] PHP Parse error:  syntax error, unexpected '')'' (T_CONSTANT_ENCAPSED_STRING) in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php on line 89
+[27-Oct-2016 20:42:54 PRC] PHP Stack trace:
+[27-Oct-2016 20:42:54 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 20:42:54 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 20:42:54 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 20:42:54 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 20:42:54 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 20:42:54 PRC] PHP   6. ReflectionMethod->invoke() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:54 PRC] PHP   7. Home\Controller\IndexController->index() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:54 PRC] PHP   8. Think\Controller->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php:62
+[27-Oct-2016 20:42:54 PRC] PHP   9. Think\View->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Controller.class.php:56
+[27-Oct-2016 20:42:54 PRC] PHP  10. Think\View->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:72
+[27-Oct-2016 20:42:54 PRC] PHP  11. Think\Hook::listen() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:126
+[27-Oct-2016 20:42:54 PRC] PHP  12. Think\Hook::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:89
+[27-Oct-2016 20:42:54 PRC] PHP  13. Behavior\ParseTemplateBehavior->run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:119
+[27-Oct-2016 20:42:54 PRC] PHP  14. Think\Template->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php:32
+[27-Oct-2016 20:42:54 PRC] PHP  15. Think\Storage::load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:54 PRC] PHP  16. Think\Storage::__callstatic() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:54 PRC] PHP  17. call_user_func_array:{E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:54 PRC] PHP  18. Think\Storage\Driver\File->load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:54 PRC] PHP Parse error:  syntax error, unexpected '')'' (T_CONSTANT_ENCAPSED_STRING) in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php on line 89
+[27-Oct-2016 20:42:54 PRC] PHP Stack trace:
+[27-Oct-2016 20:42:54 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 20:42:54 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 20:42:54 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 20:42:54 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 20:42:54 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 20:42:54 PRC] PHP   6. ReflectionMethod->invoke() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:54 PRC] PHP   7. Home\Controller\IndexController->index() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:54 PRC] PHP   8. Think\Controller->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php:62
+[27-Oct-2016 20:42:54 PRC] PHP   9. Think\View->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Controller.class.php:56
+[27-Oct-2016 20:42:54 PRC] PHP  10. Think\View->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:72
+[27-Oct-2016 20:42:54 PRC] PHP  11. Think\Hook::listen() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:126
+[27-Oct-2016 20:42:54 PRC] PHP  12. Think\Hook::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:89
+[27-Oct-2016 20:42:54 PRC] PHP  13. Behavior\ParseTemplateBehavior->run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:119
+[27-Oct-2016 20:42:54 PRC] PHP  14. Think\Template->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php:32
+[27-Oct-2016 20:42:54 PRC] PHP  15. Think\Storage::load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:54 PRC] PHP  16. Think\Storage::__callstatic() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:54 PRC] PHP  17. call_user_func_array:{E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:54 PRC] PHP  18. Think\Storage\Driver\File->load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:54 PRC] PHP Parse error:  syntax error, unexpected '')'' (T_CONSTANT_ENCAPSED_STRING) in E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php on line 89
+[27-Oct-2016 20:42:54 PRC] PHP Stack trace:
+[27-Oct-2016 20:42:54 PRC] PHP   1. {main}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:0
+[27-Oct-2016 20:42:54 PRC] PHP   2. require() E:\wamp\www\ZxyProject\www\myphp\E-commerce\index.php:29
+[27-Oct-2016 20:42:54 PRC] PHP   3. Think\Think::start() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\ThinkPHP.php:97
+[27-Oct-2016 20:42:54 PRC] PHP   4. Think\App::run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Think.class.php:120
+[27-Oct-2016 20:42:54 PRC] PHP   5. Think\App::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:202
+[27-Oct-2016 20:42:54 PRC] PHP   6. ReflectionMethod->invoke() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:54 PRC] PHP   7. Home\Controller\IndexController->index() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\App.class.php:164
+[27-Oct-2016 20:42:54 PRC] PHP   8. Think\Controller->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\Application\Home\Controller\IndexController.class.php:62
+[27-Oct-2016 20:42:54 PRC] PHP   9. Think\View->display() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Controller.class.php:56
+[27-Oct-2016 20:42:54 PRC] PHP  10. Think\View->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:72
+[27-Oct-2016 20:42:54 PRC] PHP  11. Think\Hook::listen() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\View.class.php:126
+[27-Oct-2016 20:42:54 PRC] PHP  12. Think\Hook::exec() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:89
+[27-Oct-2016 20:42:54 PRC] PHP  13. Behavior\ParseTemplateBehavior->run() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Hook.class.php:119
+[27-Oct-2016 20:42:54 PRC] PHP  14. Think\Template->fetch() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Behavior\ParseTemplateBehavior.class.php:32
+[27-Oct-2016 20:42:54 PRC] PHP  15. Think\Storage::load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:54 PRC] PHP  16. Think\Storage::__callstatic() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Template.class.php:77
+[27-Oct-2016 20:42:54 PRC] PHP  17. call_user_func_array:{E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37}() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 20:42:54 PRC] PHP  18. Think\Storage\Driver\File->load() E:\wamp\www\ZxyProject\www\myphp\E-commerce\ThinkPHP\Library\Think\Storage.class.php:37
+[27-Oct-2016 12:57:41 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 12:57:41 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 12:57:42 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[27-Oct-2016 12:57:42 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[29-Oct-2016 01:33:23 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[29-Oct-2016 01:33:23 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[29-Oct-2016 01:33:24 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[29-Oct-2016 01:33:24 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
